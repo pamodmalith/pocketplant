@@ -45,7 +45,7 @@ Follow these steps to get a local copy of PocketPlant up and running on your mac
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/pamodmalith/pocketplant.git](https://github.com/pamodmalith/pocketplant.git)
+    git clone https://github.com/pamodmalith/pocketplant.git
     cd pocketplant
     ```
 
