@@ -59,7 +59,7 @@ Follow these steps to get a local copy of PocketPlant up and running on your mac
 
     - Create a copy of the example environment file and name it **`.env`**:
       ```bash
-      cp .env.example .env
+      cp src/.env.example src/.env
       ```
     - Open the new **`.env`** file and update the **database credentials** (DB_USERNAME, DB_PASSWORD, etc.) to match your local database settings.
 
@@ -76,4 +76,4 @@ Follow these steps to get a local copy of PocketPlant up and running on your mac
       _(Note: Replace `[your_db_username]` with your actual username. You will be prompted to enter your password.)_
 5.  **Run the Application:**
     - change directory to `/src`
-    - _Insert command to start the local development server here (e.g., `php -S localhost:8000 -t public`)._
+    - _Insert command to start the local development server here (e.g., `php -S localhost:8000 -t src/`)._
