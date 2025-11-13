@@ -75,5 +75,4 @@ Follow these steps to get a local copy of PocketPlant up and running on your mac
       ```
       _(Note: Replace `[your_db_username]` with your actual username. You will be prompted to enter your password.)_
 5.  **Run the Application:**
-    - change directory to `/src`
     - _Insert command to start the local development server here (e.g., `php -S localhost:8000 -t src/`)._
