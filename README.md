@@ -26,7 +26,7 @@ This project leverages the following core technologies:
 | **Backend**  | **Hack** (HHVM)                       | Enhanced PHP performance and type safety for a more reliable application. |
 | **Frontend** | **JavaScript**                        | Dynamic content rendering and client-side interactions.                   |
 | **Styling**  | **CSS**                               | Custom styling for a beautiful and responsive user interface.             |
-| **Database** | _[Insert Database Here, e.g., MySQL]_ | Persistent storage for user data, products, and orders.                   |
+| **Database** | **MySQL**                             | Persistent storage for user data, products, and orders.                   |
 
 ---
 
@@ -38,7 +38,7 @@ Follow these steps to get a local copy of PocketPlant up and running on your mac
 
 - **PHP** (and potentially **HHVM** if you are running the Hack components)
 - **Composer** (PHP dependency manager)
-- A running **Database Server** (e.g., MySQL/MariaDB)
+- A running **Database Server** (MySQL)
 
 ### Steps
 
